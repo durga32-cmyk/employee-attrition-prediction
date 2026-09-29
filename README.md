@@ -2,6 +2,10 @@
 
 Predicts which employees are likely to leave a company, using the IBM HR Analytics dataset (1,470 employees, 35 original features).
 
+## Dataset
+
+IBM HR Analytics Employee Attrition dataset, loaded directly from a public CSV URL in the notebook (no manual download needed — just run the notebook top to bottom).
+
 ## Pipeline
 
 - Data cleaned and encoded (categorical → numeric via one-hot encoding)
